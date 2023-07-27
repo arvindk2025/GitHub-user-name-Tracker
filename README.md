@@ -4,7 +4,7 @@
 
 GitHub Username Tracker is a web application that allows you to search and track GitHub usernames. This tool enables you to find users by their GitHub usernames and get relevant information about their profiles.
 
-![GitHub_Username_Tracker](./assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
+![GitHub_Username_Tracker](./assets_2/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
 
 ## Features
 
