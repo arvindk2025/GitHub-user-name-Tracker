@@ -1,6 +1,6 @@
 # GitHub Username Tracker
 
-![Alt text](./Dev Detective Project/assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
+![GitHub Username Tracker](./Dev Detective Project/assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
 
 
 
