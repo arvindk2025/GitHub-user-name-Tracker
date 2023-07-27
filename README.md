@@ -1,12 +1,10 @@
 # GitHub Username Tracker
 
-![GitHub Username Tracker](./Dev Detective Project/assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
-
-
-
 ## Overview
 
 GitHub Username Tracker is a web application that allows you to search and track GitHub usernames. This tool enables you to find users by their GitHub usernames and get relevant information about their profiles.
+
+![GitHub_Username_Tracker](./Dev Detective Project/assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
 
 ## Features
 
