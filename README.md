@@ -1,6 +1,6 @@
 # GitHub Username Tracker
 
-![Alt text](./assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
+![Alt text](./Dev Detective Project/assets/GitHub_Usertracker.png?raw=true "GitHub Username Tracker")
 
 ![GitHub](https://img.shields.io/github/license/your-username/github-username-tracker)
 ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/github-username-tracker)
